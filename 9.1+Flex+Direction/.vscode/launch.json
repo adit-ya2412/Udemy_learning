@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://127.0.0.1:3000/9.1 Flex Direction/index.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/9.1 Flex Direction/index.html"
+        }
+    ]
+}
